@@ -1,0 +1,6 @@
+Revision history for Perl extension HTML::AjaxTags::TT.
+
+0.01  Wed Dec  6 00:51:54 2006
+	- original version; created by h2xs 1.23 with options
+		-Xn HTML::AjaxTags::TT
+

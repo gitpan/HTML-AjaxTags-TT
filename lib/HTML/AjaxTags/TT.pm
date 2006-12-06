@@ -3,7 +3,7 @@ package HTML::AjaxTags::TT;
 
 use strict;
 use warnings;
-use USiOasis::Ajax;
+use HTML::AjaxTags;
 
 our $AUTOLOAD;
 our $VERSION = '0.01';

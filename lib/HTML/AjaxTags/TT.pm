@@ -1,3 +1,20 @@
+=head1 NAME
+
+HTML::AjaxTags::TT - AjaxTags for Template Toolkit 
+
+=head1 SYNOPSIS
+
+  use HTML::AjaxTags:TT;
+
+=head1 DESCRIPTION
+
+Because of the way Template Toolkit handles named parameters when calling functions, HTML::AjaxTags::TT must be used to embed HTML::AjaxTags within a template file.
+
+=cut
+
+
+
+
 package HTML::AjaxTags::TT;
 
 
@@ -6,7 +23,7 @@ use warnings;
 use HTML::AjaxTags;
 
 our $AUTOLOAD;
-our $VERSION = '0.01';
+our $VERSION = '0.03';
 
 
 sub new {

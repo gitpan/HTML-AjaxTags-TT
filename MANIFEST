@@ -4,3 +4,4 @@ MANIFEST
 README
 t/HTML-AjaxTags-TT.t
 lib/HTML/AjaxTags/TT.pm
+META.yml
